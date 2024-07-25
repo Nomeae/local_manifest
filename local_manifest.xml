@@ -2,10 +2,10 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/samsung/sdm845-common" name="kum4423/android_device_samsung_sdm845-common.git" remote="github" revision="lineage-20.0" />
- <project path="device/samsung/star2qltechn" name="kum4423/android_device_samsung_star2qltechn.git" remote="github" revision="lineage-20.0" />
- <project path="vendor/samsung/sdm845-common" name="kum4423/android_vendor_samsung_sdm845-common.git" remote="github" revision="lineage-20.0" />
- <project path="kernel/samsung/sdm845" name="kum4423/android_kernel_samsung_sdm845.git" remote="github" revision="lineage-20.0" />
- <project path="hardware/samsung" name="LineageOS/android_hardware_samsung.git" remote="github" revision="lineage-20" />
+ <project path="device/samsung/sdm845-common" name="kum4423/android_device_samsung_sdm845-common.git" remote="github" revision="lineage-21.0" />
+ <project path="device/samsung/star2qltechn" name="kum4423/android_device_samsung_star2qltechn.git" remote="github" revision="lineage-21.0" />
+ <project path="vendor/samsung/sdm845-common" name="kum4423/android_vendor_samsung_sdm845-common.git" remote="github" revision="lineage-21.0" />
+ <project path="kernel/samsung/sdm845" name="kum4423/android_kernel_samsung_sdm845.git" remote="github" revision="lineage-21.0" />
+ <project path="hardware/samsung" name="LineageOS/android_hardware_samsung.git" remote="github" revision="lineage-21" />
 
 </manifest>
